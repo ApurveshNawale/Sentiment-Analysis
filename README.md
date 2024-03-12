@@ -58,6 +58,7 @@ To run the code, follow these steps:
 ```bash
 python main.py
 ```
+## Code Structure
 ```bash
 
 text-analysis-sentiment-classification/
